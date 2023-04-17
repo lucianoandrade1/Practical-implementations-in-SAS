@@ -1,0 +1,17 @@
+Using the dataset that contains information about the service time of a telemarketing company and the total number of customers who had that service time in minutes on different shifts and days.
+
+Answer the following questions:
+
+1-What is the average service time?
+2-What is the median of service time?
+3-What is the standard deviation and variance of the service time?
+4-What are the quartiles and percentiles 32, 57 and 98 of the service time?
+5-What is the interquartile interval of service time?
+6-Create a boxplot that represents the previous measures.
+7-The covariance of two variables x and y in a data set measures how the two are linearly related. A positive covariance would indicate a positive linear relationship between the variables and a negative covariance would indicate the opposite. Calculate the covariance between the service time and the total number of customers. What does the result indicate?
+8-Calculate the Absolute Frequency of the attendance time variable.
+9-Create a histogram that represents your answer in the previous item.
+10-Calculate the Relative and Accumulated Frequency variable service time.
+11-Create a line graph for the Accumulated Frequency.
+12-Create a scatterplot to represent the relationship between the two variables in the dataset.
+

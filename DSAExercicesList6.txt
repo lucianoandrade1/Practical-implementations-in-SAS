@@ -1,0 +1,12 @@
+Let's use the bweight dataset that is available in the SASHLP library
+
+Exercise 1 -Using PROCSQL, calculate the average weight of all children, the average weight of boys (column boy = 1) and the average weight of girls (column boy = 0).
+
+Exercise 2 -Using PROCSQL, create a random sample equivalent to 10% of the original dataset. Tip: use the ranuni() function to generate random values ​​used to select the data.
+
+Exercise 3 -Using PROCSQL, create a random sample equivalent to 5000 records from the original dataset. Tip: use the ranuni() function to generate random values ​​used to select the data.
+
+Exercise 4 -Using PROC surveyselect, create two samples with the same criteria as exercises 2 and 3. Tip: use the SRS (Simple Random Sampling) method of procsurveyselect.
+
+Exercise 5 -Using SQL PROC, we will create a stratified sample. First, create two samples, with 2500 records each. 
+The first sample must contain only male children and the second only female children. Then join the two samples together creating the final sample.

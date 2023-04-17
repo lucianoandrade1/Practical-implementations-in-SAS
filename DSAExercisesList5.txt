@@ -1,0 +1,6 @@
+Exercise 3:
+A manufacturer's lamps have a 10% chance of burning before 100 hours. 
+Four lamps are selected at random and tested for 100 hours. 
+What is the probability that at most one of the lamps will burn out? 
+Let Y be the number of lamps burned. Y has a binomial distribution with parameters n = 4 and p = 0.1.
+Tip: Use the pdf () function. 

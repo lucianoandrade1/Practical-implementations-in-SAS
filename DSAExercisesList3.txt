@@ -1,0 +1,15 @@
+The dataset Budget contains information on marital status, education level, 
+number of children, salary (expressed as a fraction of the minimum wage), 
+age (measured in years and months) and origin of 36 employees of the budget 
+section of a Company.
+
+Based on the analysis of the dataset, answer the following questions:
+
+1-What is the total number of people with secondary education in the capital?
+2-What is the percentage of country side people with higher education?
+3-Create a Stacked Bar Chart to represent the relationship between the level of education and the region of origin.
+4-What is the relationship between education level and marital status?
+5-Calculate the position measures of the salary variable.
+6-Calculate the dispersion measures of the salary variable.
+
+

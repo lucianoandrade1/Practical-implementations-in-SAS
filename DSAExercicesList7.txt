@@ -1,0 +1,7 @@
+A researcher is studying the heights of a particular population of adult women. 
+He collected a random sample of heights from 75 women and saved the data in 
+the Heights dataset.
+
+Using the univariate proc, calculate the 90% and 95% confidence intervals for 
+the mean, standard deviation, and variance.
+

@@ -1,0 +1,13 @@
+Using the attached data set on vehicles sold by a dealership, it is necessary to meet some demands from the business area, answering the following questions:
+
+1-What are the 3 colors of the most selling vehicles?
+2-In what year are the most-selling vehicles?
+3-Create a bar graph to present your answer in item 2.
+4-What is the percentage of sales of vehicles with automatic transmission?
+5-Create a Pie Chart to represent your answer in item 4.
+6-What is the percentage of vehicle sales by model?
+7-Calculate the percentage of sales by vehicle price and the accumulated percentage.
+8-List the total number of vehicles sold per year and by type of transmission.
+9-Print a statistical summary with the chi-square test, degrees of freedom and p-value of the result of the previous item.
+10-Create a bar chart from the result of item 8.
+

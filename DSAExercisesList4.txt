@@ -1,0 +1,13 @@
+Note: Solve the following exercises using the dataset exame.csv.
+
+Exercise 1
+Using Proc Tabulate, create a summarized table by the "sexo" variable.
+
+Exercise 2
+Using Proc Tabulate, create a summarized table by the "sexo" variable and the "tipo" variable.
+
+Exercise 3
+Using Proc Tabulate, create a summarized table by the "tipo" variable with the percentages by "tipo".
+
+Exercise 4
+Using Proc Tabulate, create a summarized table by the "sexo" and "tipo" variables and with percentages per column. 

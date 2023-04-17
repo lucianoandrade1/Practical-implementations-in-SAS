@@ -1,0 +1,18 @@
+Let's compare the average heights of 19 students based on gender.
+
+The data is contained in the Sashelp.Class dataset.
+
+To use PROC TTEST for summary statistics, the statistics must be in a SAS dataset that contains a character variable called _STAT_ with the values ​​'N', 'MEAN' and 'STD'. 
+
+As we are interested in a two-sample test, the data must also contain a grouping variable. Use “sex” as the grouping variable, call PROC MEANS to write summary statistics to a dataset and print a subset of the statistics. 
+
+Then use PROC TTEST to perform the following hypothesis test: 
+
+Null Hypothesis (H0) - Average heights are the same for both groups (male and female)
+
+Alternative Hypothesis (H1) - Average heights are not the same for both the groups (male and female) 
+
+What are your conclusions? 
+
+Should we or shouldn't we reject H0?
+
