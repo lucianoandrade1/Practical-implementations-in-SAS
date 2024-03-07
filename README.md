@@ -1,6 +1,6 @@
 # Practical-implementations-in-SAS
 
-Solution for some business problems using SAS platform.
+Solution for some business problems using SAS platform xxx.
 
 ## Authors
 
